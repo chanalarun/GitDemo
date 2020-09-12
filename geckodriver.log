@@ -1,0 +1,98 @@
+1598516622775	geckodriver	INFO	Listening on 127.0.0.1:55367
+1598516625902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileCdFd3w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598516641016	Marionette	INFO	Listening on port 55378
+1598516642622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598516655256	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+window.XMLHttpRequest.prototype.send@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=ULbUCYADcEm7bnSFBNmiBWcLYKCfFW_Xc1ul6Cw7jn6aCRbFDNPT_2bAioCrO3zem8l-hJPUVfmOefEEY4rTx9C0xzNS2ixqAaoEpRew-t8:1078:18
+send@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1248:36
+c@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:81117
+1598516662958	Marionette	INFO	Stopped listening on port 55378
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598516704163	geckodriver	INFO	Listening on 127.0.0.1:55444
+1598516707227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileJe2258"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598516712753	Marionette	INFO	Listening on port 55452
+1598516713057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/kpm/kpm_promo_frame.js, line 7: ReferenceError: AddEventListener is not defined
+1598516725637	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+window.XMLHttpRequest.prototype.send@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=gwEgMBIjFbwakdttOpb9T96LpAj_3hjdmho44Cwg8KJjidJVF3w2yfDm387QpD5UWZ-fv7_YWAUoDtejJnjQ_AqY87iMU6ideTrR-pJkyQA:1078:18
+send@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1248:36
+c@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:81117
+1598516733451	Marionette	INFO	Stopped listening on port 55452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598516852634	geckodriver	INFO	Listening on 127.0.0.1:55536
+1598516855720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileymwZoX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598516860798	Marionette	INFO	Listening on port 55544
+1598516861049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/kpm/kpm_promo_frame.js, line 7: ReferenceError: AddEventListener is not defined
+1598516877374	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+window.XMLHttpRequest.prototype.send@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i4xcn2F0rtJiRwnC4FOPdCrgAun1kCCr3P27Xg9-X0zG_zJZjfFoPgF4bzUHTjFpeKLkiizHM8gwNatROUFkA8vlRdx89uAGjvP5fvsKwQ4:1078:18
+send@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1248:36
+c@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5f3ed92d45b231.51976065/js/jquery/jquery-3.4.1.min.js:2:81117
+1598516885302	Marionette	INFO	Stopped listening on port 55544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
